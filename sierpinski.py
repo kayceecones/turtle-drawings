@@ -3,7 +3,7 @@ from turtle import *
 BIG_SIDE = 500
 
 def main():
-    print('welcome to andie and radu sierpinski program')
+    print('Welcome to andie and radu sierpinski program')
 
     speed(0)
     back(120)
